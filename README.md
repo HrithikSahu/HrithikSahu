@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm Sanket Patil, a Web Developer and Cloud Developer 🚀 from Mumbai, India, 
+Hi, I'm Hrithik Sahu, a Web Developer and Android Developer 🚀 from Mumbai, India, 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Talking about Personal Stuffs:**
