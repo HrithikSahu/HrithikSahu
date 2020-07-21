@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Sanket!](https://www.sanketpatil.me)
+### Hey 👋🏽, I'm [Hrithik!]
 
 <br/>
 
