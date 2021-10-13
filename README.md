@@ -10,7 +10,7 @@
 <img align="left" alt="Sanket's LinkdeIN" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.instagram.com/ihrithiksahu/">
-<img align="left" alt="Sanket's Instagram" width="22px" src="ttps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+<img align="left" alt="Sanket's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
