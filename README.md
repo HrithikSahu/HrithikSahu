@@ -16,6 +16,7 @@
 <img align="left" alt="Sanket's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <br />
 
